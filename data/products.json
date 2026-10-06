@@ -1,0 +1,420 @@
+[
+  {
+    "id": "prod_001",
+    "name": { "az": "Kətan Blazer", "en": "Linen Blend Blazer" },
+    "description": { "az": "Yüngül kətan qarışığı blazer, yaz və payız mövsümləri üçün ideal seçim.", "en": "Lightweight linen blend blazer, perfect for spring and autumn seasons." },
+    "price": 89.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_women",
+    "images": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": [
+      { "name": { "az": "Bej", "en": "Beige" }, "hex": "#C4A882" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" }
+    ],
+    "rating": 4.5,
+    "reviews": 124,
+    "inStock": true,
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "createdAt": "2026-09-15T00:00:00Z"
+  },
+  {
+    "id": "prod_002",
+    "name": { "az": "Trikotaj Üst", "en": "Ribbed Knit Top" },
+    "description": { "az": "Rahat və zərif trikotaj üst geyim, hər gün üçün uyğun.", "en": "Comfortable and elegant ribbed knit top, suitable for everyday wear." },
+    "price": 29.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_women",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" },
+      { "name": { "az": "Ağ", "en": "White" }, "hex": "#FFFFFF" }
+    ],
+    "rating": 4.3,
+    "reviews": 98,
+    "inStock": true,
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "createdAt": "2026-09-10T00:00:00Z"
+  },
+  {
+    "id": "prod_003",
+    "name": { "az": "Geniş Paçalı Şalvar", "en": "Wide Leg Trousers" },
+    "description": { "az": "Rahat geniş paçalı şalvar, ofis və gündəlik geyim üçün ideal.", "en": "Comfortable wide leg trousers, ideal for office and casual wear." },
+    "price": 59.99,
+    "salePrice": 49.99,
+    "currency": "AZN",
+    "category": "cat_women",
+    "images": [
+      "https://images.unsplash.com/photo-1509551388413-e18d0ac5d495?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": { "az": "Bej", "en": "Beige" }, "hex": "#C4A882" },
+      { "name": { "az": "Tünd mavi", "en": "Navy" }, "hex": "#1B2A4A" }
+    ],
+    "rating": 4.6,
+    "reviews": 76,
+    "inStock": true,
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "createdAt": "2026-09-08T00:00:00Z"
+  },
+  {
+    "id": "prod_004",
+    "name": { "az": "Dəri Çiyin Çantası", "en": "Leather Shoulder Bag" },
+    "description": { "az": "Əsl dəridən hazırlanmış zərif çiyin çantası.", "en": "Elegant shoulder bag made from genuine leather." },
+    "price": 79.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_accessories",
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": [],
+    "colors": [
+      { "name": { "az": "Qəhvəyi", "en": "Brown" }, "hex": "#8B5E3C" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" }
+    ],
+    "rating": 4.7,
+    "reviews": 112,
+    "inStock": true,
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "createdAt": "2026-09-05T00:00:00Z"
+  },
+  {
+    "id": "prod_005",
+    "name": { "az": "Nazik Topuqlu Ayaqqabı", "en": "Minimal Strappy Heels" },
+    "description": { "az": "Zərif nazik topuqlu ayaqqabı, xüsusi münasibətlər üçün.", "en": "Elegant minimal strappy heels for special occasions." },
+    "price": 49.99,
+    "salePrice": 39.99,
+    "currency": "AZN",
+    "category": "cat_shoes",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["36", "37", "38", "39", "40"],
+    "colors": [
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" },
+      { "name": { "az": "Bej", "en": "Beige" }, "hex": "#C4A882" }
+    ],
+    "rating": 4.4,
+    "reviews": 67,
+    "inStock": true,
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "createdAt": "2026-09-01T00:00:00Z"
+  },
+  {
+    "id": "prod_006",
+    "name": { "az": "Böyük Eynək", "en": "Oversized Sunglasses" },
+    "description": { "az": "UV qoruyucu böyük günəş eynəyi, trend dizayn.", "en": "UV protective oversized sunglasses with trendy design." },
+    "price": 19.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_accessories",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": [],
+    "colors": [
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" },
+      { "name": { "az": "Qəhvəyi", "en": "Tortoise" }, "hex": "#8B5E3C" }
+    ],
+    "rating": 4.2,
+    "reviews": 53,
+    "inStock": true,
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "createdAt": "2026-08-28T00:00:00Z"
+  },
+  {
+    "id": "prod_007",
+    "name": { "az": "Klassik Köynək", "en": "Classic Oxford Shirt" },
+    "description": { "az": "Kişilər üçün klassik Oxford köynək, yüksək keyfiyyətli pambıq.", "en": "Classic Oxford shirt for men, high-quality cotton." },
+    "price": 45.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_men",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": { "az": "Ağ", "en": "White" }, "hex": "#FFFFFF" },
+      { "name": { "az": "Açıq mavi", "en": "Light Blue" }, "hex": "#A8C8E8" }
+    ],
+    "rating": 4.6,
+    "reviews": 89,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-01T00:00:00Z"
+  },
+  {
+    "id": "prod_008",
+    "name": { "az": "Slim Fit Şalvar", "en": "Slim Fit Chinos" },
+    "description": { "az": "Kişilər üçün slim fit chino şalvar, rahat parça.", "en": "Slim fit chinos for men, comfortable fabric." },
+    "price": 55.99,
+    "salePrice": 44.99,
+    "currency": "AZN",
+    "category": "cat_men",
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": { "az": "Bej", "en": "Beige" }, "hex": "#C4A882" },
+      { "name": { "az": "Tünd göy", "en": "Navy" }, "hex": "#1B2A4A" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" }
+    ],
+    "rating": 4.5,
+    "reviews": 104,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-02T00:00:00Z"
+  },
+  {
+    "id": "prod_009",
+    "name": { "az": "Midi Don", "en": "Midi Wrap Dress" },
+    "description": { "az": "Zərif midi uzunluqda bükülən don, xüsusi günlər üçün.", "en": "Elegant midi length wrap dress for special days." },
+    "price": 69.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_dresses",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      { "name": { "az": "Bej", "en": "Beige" }, "hex": "#C4A882" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" },
+      { "name": { "az": "Bordo", "en": "Burgundy" }, "hex": "#722F37" }
+    ],
+    "rating": 4.8,
+    "reviews": 156,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "prod_010",
+    "name": { "az": "Yun Paltar", "en": "Wool Blend Coat" },
+    "description": { "az": "Qış mövsümü üçün isti yun paltar.", "en": "Warm wool blend coat for winter season." },
+    "price": 149.99,
+    "salePrice": 119.99,
+    "currency": "AZN",
+    "category": "cat_women",
+    "images": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": [
+      { "name": { "az": "Bej", "en": "Camel" }, "hex": "#C19A6B" },
+      { "name": { "az": "Boz", "en": "Grey" }, "hex": "#808080" }
+    ],
+    "rating": 4.7,
+    "reviews": 91,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-04T00:00:00Z"
+  },
+  {
+    "id": "prod_011",
+    "name": { "az": "Pambıq T-shirt", "en": "Cotton Basic Tee" },
+    "description": { "az": "100% pambıq əsas t-shirt, gündəlik geyim üçün.", "en": "100% cotton basic tee for everyday wear." },
+    "price": 19.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_tops",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": { "az": "Ağ", "en": "White" }, "hex": "#FFFFFF" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" },
+      { "name": { "az": "Boz", "en": "Grey" }, "hex": "#808080" }
+    ],
+    "rating": 4.3,
+    "reviews": 203,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": false,
+    "createdAt": "2026-08-15T00:00:00Z"
+  },
+  {
+    "id": "prod_012",
+    "name": { "az": "İpək Bluz", "en": "Silk Blend Blouse" },
+    "description": { "az": "İpək qarışıqlı zərif bluz, ofis geyimi üçün ideal.", "en": "Silk blend elegant blouse, ideal for office wear." },
+    "price": 59.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_tops",
+    "images": [
+      "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      { "name": { "az": "Krem", "en": "Cream" }, "hex": "#FFFDD0" },
+      { "name": { "az": "Çəhrayı", "en": "Blush Pink" }, "hex": "#DE98A0" }
+    ],
+    "rating": 4.6,
+    "reviews": 78,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-01T00:00:00Z"
+  },
+  {
+    "id": "prod_013",
+    "name": { "az": "Dəri Kəmər", "en": "Leather Belt" },
+    "description": { "az": "Əsl dəridən klassik kəmər.", "en": "Classic belt made from genuine leather." },
+    "price": 29.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_accessories",
+    "images": [
+      "https://images.unsplash.com/photo-1624222247344-550fb60583dc?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["S", "M", "L"],
+    "colors": [
+      { "name": { "az": "Qəhvəyi", "en": "Brown" }, "hex": "#8B5E3C" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" }
+    ],
+    "rating": 4.4,
+    "reviews": 45,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": false,
+    "createdAt": "2026-08-20T00:00:00Z"
+  },
+  {
+    "id": "prod_014",
+    "name": { "az": "Sneaker Ayaqqabı", "en": "Classic White Sneakers" },
+    "description": { "az": "Klassik ağ sneaker, gündəlik rahat geyim üçün.", "en": "Classic white sneakers for comfortable everyday wear." },
+    "price": 69.99,
+    "salePrice": 54.99,
+    "currency": "AZN",
+    "category": "cat_shoes",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["37", "38", "39", "40", "41", "42", "43", "44"],
+    "colors": [
+      { "name": { "az": "Ağ", "en": "White" }, "hex": "#FFFFFF" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" }
+    ],
+    "rating": 4.5,
+    "reviews": 167,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": false,
+    "createdAt": "2026-08-10T00:00:00Z"
+  },
+  {
+    "id": "prod_015",
+    "name": { "az": "Axşam Donu", "en": "Evening Maxi Dress" },
+    "description": { "az": "Uzun axşam donu, xüsusi tədbirlər üçün mükəmməl.", "en": "Long evening dress, perfect for special events." },
+    "price": 129.99,
+    "salePrice": 99.99,
+    "currency": "AZN",
+    "category": "cat_dresses",
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": [
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" },
+      { "name": { "az": "Tünd qırmızı", "en": "Wine Red" }, "hex": "#722F37" }
+    ],
+    "rating": 4.9,
+    "reviews": 82,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-02T00:00:00Z"
+  },
+  {
+    "id": "prod_016",
+    "name": { "az": "Kişi Blazer", "en": "Men's Casual Blazer" },
+    "description": { "az": "Kişilər üçün casual blazer, smart-casual stil üçün.", "en": "Men's casual blazer for smart-casual style." },
+    "price": 99.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_men",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": { "az": "Tünd göy", "en": "Navy" }, "hex": "#1B2A4A" },
+      { "name": { "az": "Boz", "en": "Charcoal" }, "hex": "#36454F" }
+    ],
+    "rating": 4.6,
+    "reviews": 73,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-03T00:00:00Z"
+  },
+  {
+    "id": "prod_017",
+    "name": { "az": "Tote Çanta", "en": "Canvas Tote Bag" },
+    "description": { "az": "Böyük tutumlu kətan tote çanta, gündəlik istifadə üçün.", "en": "Large capacity canvas tote bag for everyday use." },
+    "price": 39.99,
+    "salePrice": null,
+    "currency": "AZN",
+    "category": "cat_bags",
+    "images": [
+      "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": [],
+    "colors": [
+      { "name": { "az": "Bej", "en": "Beige" }, "hex": "#C4A882" },
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" }
+    ],
+    "rating": 4.3,
+    "reviews": 61,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": false,
+    "createdAt": "2026-08-25T00:00:00Z"
+  },
+  {
+    "id": "prod_018",
+    "name": { "az": "Dəri Çəkmə", "en": "Ankle Leather Boots" },
+    "description": { "az": "Topuğa qədər dəri çəkmə, payız-qış üçün.", "en": "Ankle leather boots for autumn-winter." },
+    "price": 89.99,
+    "salePrice": 74.99,
+    "currency": "AZN",
+    "category": "cat_shoes",
+    "images": [
+      "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=600&auto=format&fit=crop&q=80"
+    ],
+    "sizes": ["36", "37", "38", "39", "40", "41"],
+    "colors": [
+      { "name": { "az": "Qara", "en": "Black" }, "hex": "#1A1A1A" },
+      { "name": { "az": "Qəhvəyi", "en": "Brown" }, "hex": "#8B5E3C" }
+    ],
+    "rating": 4.7,
+    "reviews": 94,
+    "inStock": true,
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "createdAt": "2026-10-01T00:00:00Z"
+  }
+]
